@@ -1,4 +1,4 @@
-/* MIT https://github.com/rsz44/midgetjs */
+/* MIT https://github.com/rsz44/midjetjs */
 
 class ReactiveVar {
 	constructor(state_instance, value) {

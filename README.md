@@ -15,7 +15,7 @@ Get MidjetJS by dowloading a release and import in your html:
 or directly from [jsDelivr](https://cdn.jsdelivr.net/gh/rsz44/midjetjs/dist/midjetjs.min.js) CDN :
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/rsz44/midjetjs/dist/midjetjs.min.js" integrity="sha384-8x4HzYxbLFPOA25DTOv/TTJAIf0Mg7t9NZRtFd6mqfpAq0UeNP4Ip0heUIMMbkky"></script> 
+<script src="https://cdn.jsdelivr.net/gh/rsz44/midjetjs/dist/midjetjs.min.js" integrity="sha384-iI7KfPasLvK0wizEZzVKjIMwTZYTl8Uo76KjTP5DGJu6OyYq75txJZiweYf6P7SX"></script> 
 ```
 
 ## Examples
