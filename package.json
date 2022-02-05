@@ -1,0 +1,24 @@
+{
+  "name": "midjetjs",
+  "description": "An absurdly tiny state manager for javascript and modern browsers.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "./midjetjs.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo \"No test\""
+  },
+  "bugs": {
+    "url": "https://github.com/rsz44/midjetjs/issues"
+  },
+  "homepage": "https://github.com/rsz44/midjetjs",
+  "author": "Remi SARRAZIN <remi.sarrazin@gmx.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rsz44/midjetjs.git"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
