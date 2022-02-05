@@ -1,5 +1,5 @@
 {
-  "name": "midjetjs",
+  "name": "@rsz44/midjetjs",
   "description": "An absurdly tiny state manager for javascript and modern browsers.",
   "version": "1.0.0",
   "license": "MIT",

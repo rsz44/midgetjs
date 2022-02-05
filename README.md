@@ -15,7 +15,7 @@ Get MidjetJS by dowloading a release and import in your html:
 or directly from [jsDelivr](https://cdn.jsdelivr.net/gh/rsz44/midjetjs/dist/midjetjs.min.js) CDN :
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/rsz44/midjetjs/dist/midjetjs.min.js" integrity="sha384-iI7KfPasLvK0wizEZzVKjIMwTZYTl8Uo76KjTP5DGJu6OyYq75txJZiweYf6P7SX"></script> 
+<script src="https://cdn.jsdelivr.net/gh/rsz44/midjetjs@1.0.0/dist/midjetjs.min.js" integrity="sha384-+TMdF1TRjTh4RIkl/Yb4TVeiQizBaWTfWtbOWwI3FBeouez/9ZBFav7El8m8NwkP" crossorigin="anonymous"></script> 
 ```
 
 ## Examples
@@ -202,7 +202,7 @@ __Example:__
 var state = new State();
 
 // will update your state every second.
-const myLogical = setTimeout(() => {
+const myLogical = setInterval(() => {
 	state.update();
 }), 1000);
 
